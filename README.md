@@ -137,13 +137,15 @@ Builds a volatility index based on upset frequency.
 
 ---
 
-## 📈 Visualizations (Recommended)
+## 📈 Visualizations
 
 - Upset rate vs odds range
 - Team performance ranking
 - Home conversion rate leaderboard
 - Prediction accuracy breakdown
 - Risk heatmap of teams
+<img width="1592" height="770" alt="image" src="https://github.com/user-attachments/assets/3112834a-f4a3-4ec2-a453-5ab423b19c3e" />
+
 
 ---
 
